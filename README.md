@@ -11,7 +11,7 @@ A fun and interactive web-based quiz game built with HTML, CSS, and JavaScript.
 - **Performance Feedback**: Get personalized messages based on your score
 - **Responsive Design**: Works on both desktop and mobile devices
 - **Restart Functionality**: Play multiple rounds easily
-
+- 
 ## How to Play
 
 1. Open `index.html` in any web browser
